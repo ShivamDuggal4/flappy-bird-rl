@@ -1,0 +1,18 @@
+{
+    "image_rows":80,
+    "image_columns":80,
+    "image_channels":4,
+    "conv1_size":8,
+    "conv1_filters":32,
+    "conv2_size":4,
+    "conv2_filters":64,
+    "conv3_size":3,
+    "conv3_filters":64,
+    "fc1_output_size":256,
+    "fc2_output_size":2,
+    "learning_rate":0.000001,
+    "batch_size":32,
+    "GAMMA":0.9,
+    "max_batches_to_train":1
+
+}
